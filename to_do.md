@@ -1,0 +1,6 @@
+- how to contribute
+  - Like branch off develop
+  - Naming of commit, pull request and final commit
+  - Convention of commits
+- Format of adding the materials to the repo
+- ??
