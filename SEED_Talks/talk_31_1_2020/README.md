@@ -17,3 +17,9 @@ Note:
 - Refreshments will be provided
 - Event will be subjected to minimum number of students to run
 - Please await confirmation before attending
+
+**Link to slides:** https://docs.google.com/presentation/d/1qE-ggw_fskKAReUgjyr4FQUrzbYbZUWUztv8Kulmzwg/edit?usp=sharing
+
+**Link to the livestream:** https://www.youtube.com/watch?v=ISpLMn0MGI8
+
+**Link to pictures from the event:** Not up yet
