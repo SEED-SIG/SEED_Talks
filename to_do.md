@@ -6,5 +6,8 @@
   - Slides
   - Materials
   - Readme
-  - ??
+  - video link
+  - pictures => gdrive
+  - a picture for the readme
+- Format readme for main seed talks folder
 - ??
