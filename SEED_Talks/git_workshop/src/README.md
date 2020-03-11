@@ -5,6 +5,22 @@ Welcome stranger, you are now on a git and github guide on this website.
 If you have stumbled here by accident, [here]() is the link to other SEED_Talks that you can check out.  
 If you are here for the workshop, please continue reading, and I hope you will learn a thing or two.  
 
+## Just abit about me
+
+Hi, I am Lim Chuan Hao, a year 1 student at Singapore Polytechnic.  
+The main reason for me making this guide was that I simply wanted an easier way to teach my friends how to learn git and github. 
+
+Also I did not like the way I learnt git and github(which was mainly 5 hours of video and a lot of trial and error afterwards).  
+
+Thus, I wanted a way where you can learn and try out the commands at the same time, which was the way I eventually picked up git and github and have been using ever since to do version control on all of my future projects.
+
+[Github](https://github.com/chuanhao01)  
+[Linkedin](https://www.linkedin.com/in/chuanhao01/)
+
+## Directory
+
+Work out the names and confirm before doing this
+
 To do:
 
 1. Basic info about bash and the command line
