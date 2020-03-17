@@ -17,6 +17,8 @@ You can think of these as checkmarks/things you should know or atleast be famili
 
 ## Things to keep in mind  
 
+I structured these sections in the way of theory(as in the fundemental concepts behind why and how git does things), practical(as in the actual git commands used) and then the tutorials/walkthroughs(these are the links at the bottom of some of the practicals).
+
 After finishing some of the sections in this part, there might be a practical section linked at the bottom.  
 I would highly recommend doing them as they are probably the most important out of this whole guide.  
 
