@@ -40,23 +40,24 @@ To do:
          2. diff against which of the places
       5. git commend --amend
       6. Relation to the 3 conceptual places
-   4. How commits are linked
+   4. git reset HEAD --file, git checkout HEAD --file, git restore
+   5. How commits are linked
       1. How parent and child commits are linked
       2. How git constructs the current working dir
-   5. Pointers and branches
+   6. Pointers and branches
       1. What is HEAD and master
       2. Mainly just pointers pointing to a commit (Data is from commit links)
       3. How branches are formed
       4. Moving HEAD around
-   6. Merging and conflicts
+   7. Merging and conflicts
       1. How is the merge commit constructed and made
       2. How conflicts come about
-   7. git checkout, log and reset (Only master)
+   8. git checkout, log and reset (Only master)
       1. checkout and detach HEAD (Don't do anything in this case)
       2. logging and relating CLI to model
       3. reset vs reverting
          1. Need to enforce to the model
-   8. git branch, merge and diff again
+   9. git branch, merge and diff again
       1. branch vs checkout -b name
          1. explict vs implict
          2. starting from the branch
@@ -67,20 +68,20 @@ To do:
       3. diff
          1. comparing branches
       4. mention about remote branches
-   9.  The cloud and github
+   10. The cloud and github
        1.  Main idea
        2.  remote branches
        3.  remotes
-   10. git push, pull and fetch
+   11. git push, pull and fetch
        1.  What it relates to the model
-   11. Dealing with conflicts against the cloud
+   12. Dealing with conflicts against the cloud
        1.  fetch &rarr; resolve
-   12. Git flow
+   13. Git flow
        1.  Model
        2.  Suit to your needs
        3.  Why its powerful
        4.  When to break the rules
-   13. Trying with a partner
+   14. Trying with a partner
 3. Advanced git and github
    1. Advanced resets
    2. adding additional resets
